@@ -133,6 +133,14 @@ export default {
         face: "https://bulma.io/images/placeholders/1280x960.png",
         icon: "https://bulma.io/images/placeholders/96x96.png"
       }
+      {
+        id: -13,
+        name: "Andrew Wapperom",
+        handle: "andwappe",
+        role: ["ligma"],
+        face: "https://bulma.io/images/placeholders/1280x960.png",
+        icon: "https://bulma.io/images/placeholders/96x96.png"
+      }
     ];
   }
 };
